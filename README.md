@@ -19,7 +19,7 @@ A classic **Sudoku** puzzle game built using **HTML**, **CSS**, and **Vanilla Ja
 - CSS3 (Flexbox)
 - JavaScript (Vanilla)
 
-## 📁 Project Structure
+
 
 ## ▶️ How to Play
 
