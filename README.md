@@ -19,7 +19,7 @@ A classic **Sudoku** puzzle game built using **HTML**, **CSS**, and **Vanilla Ja
 - CSS3 (Flexbox)
 - JavaScript (Vanilla)
 
-## 📁 Project Structure
+
 
 ## ▶️ How to Play
 
@@ -29,7 +29,7 @@ A classic **Sudoku** puzzle game built using **HTML**, **CSS**, and **Vanilla Ja
 
 ## 📸 Preview
 
-*(You can add a screenshot here if desired)*
+![Image](https://github.com/user-attachments/assets/996d60e8-5f86-458c-95c7-921e0dc71291)
 
 ## 📌 Notes
 
